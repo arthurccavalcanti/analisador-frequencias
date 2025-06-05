@@ -5,7 +5,7 @@
 ## Descrição
 Este projeto usa um módulo de microfone eletreto e uma matriz de LED para construir um visualisador de frequências.
 O processamento é feito com uma placa Arduino Blackboard através da biblioteca arduinoFFT.
-Para o tutorial completo do projeto, acesse este link.
+Para o tutorial completo do projeto, [acesse este link](https://medium.com/@arthurccavalcanti/analisando-frequ%C3%AAncias-com-arduino-3078a668f165).
 
 ## Componentes
 - Arduino Blackboard (Uno)
