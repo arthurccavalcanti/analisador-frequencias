@@ -19,6 +19,9 @@ Neste caso, podemos usar um divisor de voltagem com dois resistores de 100k ohms
 
 ## Código
 O projeto contém três versões do código:
+
 A primeira aplica o FFT e exibe os valores na matriz;
+
 A segunda faz o mesmo e também aplica ganho dinâmico (útil caso a intensidade da fonte analisada varie muito);
+
 A terceira faz o mesmo que a segunda, mas também aplica um filtro high-pass com cutoff em 100Hz (útil caso você tenha muito ruído devido à conexão elétrica).
